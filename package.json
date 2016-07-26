@@ -1,0 +1,22 @@
+{
+  "name": "filemetadatamc",
+  "version": "0.1.0",
+  "description": "file metadata example",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "glob": "^7.0.5",
+    "multer": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msywensky/filemetadatamc"
+  },
+  "license": "MIT"
+}
